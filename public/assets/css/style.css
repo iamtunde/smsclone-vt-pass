@@ -1,0 +1,21 @@
+body{
+    background-color: #e3e3e3;
+}
+
+.main{
+    box-shadow: #4e434363 0px 9px 20px 0px;
+    padding: 20px 20px;
+    background: #475bd4;
+    color: white;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.error{
+    color: red;
+    background-color: #fff;
+}
+
+.c-black{
+    color: black;
+}
